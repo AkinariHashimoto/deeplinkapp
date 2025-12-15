@@ -20,7 +20,7 @@ Androidアプリとローカルホストで動作するWebページ間でディ�
 ### 1. プロジェクトのクローン
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deeplinkapp.git
+git clone https://github.com/USERNAME/deeplinkapp.git
 cd deeplinkapp
 ```
 
@@ -32,7 +32,7 @@ cd deeplinkapp
 
 ### 3. ローカルホストのWebサーバー起動
 
-HTMLファイル（`index.html`）を任意のディレクトリに配置し、以下のコマンドでWebサーバーを起動：
+HTMLファイル（`index.html`）を任意のディレクトリに配置し、以下のコマンドでWebサーバーを起動※HTMLファイルは別のリポジトリ：
 
 ```bash
 python3 -m http.server 8080
@@ -78,4 +78,4 @@ MIT License
 
 ## 作者
 
-Your Name
+Akinari Hashimoto
